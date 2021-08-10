@@ -37,6 +37,7 @@ tags:
 - Eye colour
 - PIE-score
 - IrixPlex
+- Pigmentation
 featured: false
 
 # links:

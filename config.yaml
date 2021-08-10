@@ -1,0 +1,5 @@
+theme: "starter-hugo-research-group"
+baseURL: https://www.forstat.dk/
+languageCode: en-us
+title: Danish Consortium for Forensic Statistics
+#relativeurls: true

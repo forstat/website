@@ -6,7 +6,7 @@ event_url: https://retsmedicin.ku.dk/english/
 
 location: Department of Forensic Medicine, University of Copenhagen
 
-summary: An example event.
+summary: "A one-day customised course introducing R for beginners and almost beginners."
 abstract: "A one-day customised course introducing R for beginners and almost beginners."
 
 # Talk start and end times.

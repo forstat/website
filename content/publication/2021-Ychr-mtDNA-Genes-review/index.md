@@ -19,7 +19,7 @@ publishDate: "2021-08-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Genes, 12*(8)"
+publication: "*Genes 2021, 12*(8)"
 publication_short: ""
 
 abstract: "Y chromosome and mitochondrial DNA profiles have been used as evidence in courts for decades, yet the problem of evaluating the weight of evidence has not been adequately resolved. Both are lineage markers (inherited from just one parent), which presents different interpretation challenges compared with standard autosomal DNA profiles (inherited from both parents). We review approaches to the evaluation of lineage marker profiles for forensic identification, focussing on the key roles of profile mutation rate and relatedness (extending beyond known relatives). Higher mutation rates imply fewer individuals matching the profile of an alleged contributor, but they will be more closely related. This makes it challenging to evaluate the possibility that one of these matching individuals could be the true source, because relatives may be plausible alternative contributors, and may not be well mixed in the population. These issues reduce the usefulness of profile databases drawn from a broad population: larger populations can have a lower profile relative frequency because of lower relatedness with the alleged contributor. Many evaluation methods do not adequately take account of distant relatedness, but its effects have become more pronounced with the latest generation of high-mutation-rate Y profiles."

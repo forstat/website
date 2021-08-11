@@ -1,14 +1,17 @@
 ---
-title: "DNAtools: Tools for Analysing Forensic Genetic DNA Data"
+title: "Modelling the dependence structure of Y-STR haplotypes using graphical models"
 authors:
-- tvede
 - mikl
 - James M Curran
-date: "2020-01-16T00:00:00Z"
-doi: "10.21105/joss.01981"
+- Jacob de Zoete
+- Duncan Taylor
+- John Buckleton
+
+date: "2018-11-01T00:00:00Z"
+doi: "10.1016/j.fsigen.2018.07.014"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-16T00:00:00Z"
+publishDate: "2018-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,20 +20,25 @@ publishDate: "2020-01-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Open Source Software 2020, 5(45)*"
+publication: "*Forensic Science International: Genetics 2018, 37*"
 publication_short: ""
+
+abstract: "Many methods have been suggested for evaluating the evidential value of a matching Y-chromosomal DNA
+profile obtained from a biological stain associated with a crime scene and the Y-chromosomal DNA profile of a
+suspect. Most of these methods are based on estimating the population frequency of the Y-profile. The common
+independence assumption between loci for autosomal DNA profiles cannot be used for Y-chromosomal DNA
+profiles. In this paper we reconsider the problem of population frequency estimation by application of Bayesian networks and the Chow-Liu algorithm to model dependencies between loci. We found that the method based on the Chow-Liu algorithm performs almost as well as the discrete Laplace method. We have also made comparisons to the independence model and we have demonstrated once again that the independence method foY-profiles cannot be supported."
 
 # Summary. An optional shortened abstract.
 
 tags:
-- DNA
-- Software
+- Ychr
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://joss.theoj.org/papers/10.21105/joss.01981
+url_pdf: https://www.sciencedirect.com/science/article/pii/S187249731830262X
 url_code: ''
 url_dataset: ''
 url_poster: ''

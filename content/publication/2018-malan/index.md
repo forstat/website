@@ -1,14 +1,12 @@
 ---
-title: "DNAtools: Tools for Analysing Forensic Genetic DNA Data"
+title: "malan: MAle Lineage ANalysis"
 authors:
-- tvede
 - mikl
-- James M Curran
-date: "2020-01-16T00:00:00Z"
-doi: "10.21105/joss.01981"
+date: "2018-05-07T00:00:00Z"
+doi: "10.21105/joss.00684"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-16T00:00:00Z"
+publishDate: "2018-05-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,20 +15,21 @@ publishDate: "2020-01-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Open Source Software 2020, 5(45)*"
+publication: "*Journal of Open Source Software 2020, 3(25)*"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
 
 tags:
 - DNA
+- Ychr
 - Software
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://joss.theoj.org/papers/10.21105/joss.01981
+url_pdf: https://joss.theoj.org/papers/10.21105/joss.00684
 url_code: ''
 url_dataset: ''
 url_poster: ''

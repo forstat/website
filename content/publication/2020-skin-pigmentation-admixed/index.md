@@ -2,14 +2,14 @@
 title: "Skin pigmentation and genetic variants in an admixed Brazilian population of primarily European ancestry"
 authors:
 - jeppeda
-- Olivia S Meyer
+- olivia
 - Filipa Simão
 - Juliana Jannuzzi
 - Elizeu Carvalho
 - mikl
-- Vania Pereira
-- Claus Børsting
-- Niels Morling
+- vania
+- claus
+- nmorling
 - Leonor Gusmão 
 date: "2020-05-09T00:00:00Z"
 doi: "10.1007/s00414-020-02307-y"

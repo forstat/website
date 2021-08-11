@@ -1,7 +1,7 @@
 ---
 title: "Prediction of Eye Colour in Scandinavians Using the EyeColour 11 (EC11) SNP Set"
 authors:
-- Olivia Strunge Meyer
+- olivia
 - Nina Mjølsnes Salvo
 - Anne Kjærby
 - Marianne Kjersem
@@ -9,8 +9,8 @@ authors:
 - Erik Sørensen
 - Henrik Ullum
 - Kirstin Janssen
-- Niels Morling
-- Claus Børsting
+- nmorling
+- claus
 - Gunn-Hege Olsen
 - jeppeda
 date: "2021-05-27T00:00:00Z"

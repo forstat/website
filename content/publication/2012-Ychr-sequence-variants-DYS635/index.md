@@ -1,14 +1,16 @@
 ---
-title: "DNAtools: Tools for Analysing Forensic Genetic DNA Data"
+title: "Sequence variants of allele 22 and 23 of DYS635 causing different stutter rates"
 authors:
-- tvede
+- jill
 - mikl
-- James M Curran
-date: "2020-01-16T00:00:00Z"
-doi: "10.21105/joss.01981"
+- helle
+- svante
+- nmorling
+date: "2012-12-01T00:00:00Z"
+doi: "10.1016/j.fsigen.2012.04.008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-16T00:00:00Z"
+publishDate: "2012-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,20 +19,21 @@ publishDate: "2020-01-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Open Source Software 2020, 5(45)*"
+publication: "*Forensic Science International: Genetics 2012, 6*(6), Letter to the Editor"
 publication_short: ""
+
+abstract: "We have sequenced 22 alleles of DYS635 with repeat number 22 or 23. Investigations were made to determine if sequence variants could explain the poor linear fit between parent allele heights and stutter peak heights of these two alleles. Alleles with high stutter rates were found to have longer uninterrupted stretches of repetitive units compared to alleles with a low stutter rate."
 
 # Summary. An optional shortened abstract.
 
 tags:
-- DNA
-- Software
+- Ychr
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://joss.theoj.org/papers/10.21105/joss.01981
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1872497312000919
 url_code: ''
 url_dataset: ''
 url_poster: ''

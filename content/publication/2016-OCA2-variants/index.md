@@ -1,5 +1,5 @@
 ---
-title: "Prediction of Eye Colour in Scandinavians Using the EyeColour 11 (EC11) SNP Set"
+title: "Importance of nonsynonymous OCA2 variants in human eye color prediction"
 authors:
 - jeppeda
 - Carlotta Pietroni

@@ -18,10 +18,11 @@ bio: My research is within forensic genetics.
 
 interests:
 - Genetics
+- Pigmentary traits
 
 education:
   courses:
-  - course: PhD in Forensic Genetics
+  - course: PhD in Forensic Medicine
     institution: University of Copenhagen, Denmark
     year: 2016
   - course: MSc in Biotechnology
